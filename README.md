@@ -15,8 +15,6 @@
  > 
 > 🌱 I’m currently learning blockchain
  >
-> 👯 I’m looking to collaborate on 
- >
 > 🤔 I’m looking for help with Google
  >
 > 💬 Ask me about anything
