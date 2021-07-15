@@ -1,10 +1,11 @@
-<h1 align="center"> 
- <i> Hello World!, IT'S ME NIBRAS. 👨‍💻</i>
- 
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+WORLD!+👋;IT'S+ME+NIBRAS+AHMED+....;NICE+TO+MEET+YOU!&center=true&size=30"> 
+  </a>
 </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
-[<img align="center" src="https://github-spotify-ahmednibras.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/31ostlzyi4ydkljjoftd5pnjzwde?si=85afbc7e2bdc439b)
+[<img align="center" src="https://github-spotify-ahmednibras.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/31ostlzyi4ydkljjoftd5pnjzwde?si=85afbc7e2bdc439b) 👨‍💻
 
 </br>
 
