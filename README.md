@@ -8,3 +8,12 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nibras-ahmed-9031b2201)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Gamer
+
+
+<detail>
+  
+  <summary> ⚡ Github Stats </summary>
+
+  <img align="center" src="https://github-readme-stats-ahmednibras.vercel.app/api/pin/?username=ahmednibras&repo=github-readme-stats" />
+
+</detail>
