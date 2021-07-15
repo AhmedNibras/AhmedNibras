@@ -4,14 +4,8 @@
 
 
 
-<p align="center">
-  <img alt="Linkedin URL" src="https://img.shields.io/twitter/url?color=blue&label=Connect&logo=Linkedin&logoColor=blue&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnibras-ahmed-9031b2201%2F"> 
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Follow&logo=twitter&logoColor=blue&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FNibras80624930"> 
-  <img alt="Youtube URL" src="https://img.shields.io/twitter/url?color=red&label=Subscribe&logo=youtube&logoColor=red&style=flat-square&url=https%3A%2F%2Fwww.youtube.com%2Fc%2FMINGO07"> 
-  <img alt="Instagram URL" src="https://img.shields.io/twitter/url?color=%23E4405F&label=Follow&logo=Instagram&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Fnibras.ahmed.1%2F">
-</p>
-
-
+[<img align="center" src="https://github-spotify-ahmednibras.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/31ostlzyi4ydkljjoftd5pnjzwde?si=85afbc7e2bdc439b)
+</br>
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning blockchain
@@ -22,11 +16,19 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Gamer
 
-<h2 align="center"><i> 🎧 SPOTIFY</i></h2>
+<h2 align="center"> 
+ <i> 🤝🏻 CONNECT WITH ME</i>
+</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/nibras-ahmed-9031b2201/"><img src="https://img.shields.io/badge/-Nibras%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nibrasahmad@protonmail.com"><img src="https://img.shields.io/badge/-nibrasahmad@protonmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/nibras.ahmed.1/"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/nibras25/"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
-[<img src="https://github-spotify-ahmednibras.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/31ostlzyi4ydkljjoftd5pnjzwde?si=85afbc7e2bdc439b)
 
- 
+
+
 <h2 align="center"><i>💻 TECH STACK </i></h2>
 
 <p align='center'>
@@ -137,3 +139,9 @@
  
  
  
+  [twitter]: https://twitter.com/Nibras80624930
+  [reddit]: https://www.reddit.com/user/Nibras_Ahmed
+  [facebook]: https://www.facebook.com/nibras25/
+  [instagram]: https://www.instagram.com/nibras.ahmed.1/
+  [youtube]: https://www.youtube.com/c/MINGO07
+  [linkedin]: https://www.linkedin.com/in/nibras-ahmed-9031b2201/
