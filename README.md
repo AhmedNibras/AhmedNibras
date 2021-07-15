@@ -1,22 +1,30 @@
 <h1 align="center"> 
- <i> HI THERE, IT'S ME NIBRAS. 👨‍💻</i>
+ <i> Hello World!, IT'S ME NIBRAS. 👨‍💻</i>
  
 </h1>
-
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
 [<img align="center" src="https://github-spotify-ahmednibras.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/31ostlzyi4ydkljjoftd5pnjzwde?si=85afbc7e2bdc439b)
 
 </br>
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning blockchain
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with Google
-- 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nibras-ahmed-9031b2201)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Gamer
+
+
+> 🔭 I’m currently working on Web Development
+ > 
+> 🌱 I’m currently learning blockchain
+ >
+> 👯 I’m looking to collaborate on 
+ >
+> 🤔 I’m looking for help with Google
+ >
+> 💬 Ask me about anything
+ >
+> 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nibras-ahmed-9031b2201)
+ >
+> 😄 Pronouns: he/him
+ >
+> ⚡ Fun fact: Gamer
 
 <h2 align="center"> 
  <i> 🤝🏻 CONNECT WITH ME</i>
@@ -32,7 +40,8 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/ahmednibras/ahmednibras"></a> 
 </p>
 
-
+<details align="center">
+    <summary> <samp>&#9776; Read More</samp></summary>
 <h2 align="center"><i>💻 TECH STACK </i></h2>
 
 <p align='center'>
@@ -141,7 +150,7 @@
   <img align="center" alt="Nibras Github Stats" src="https://github-readme-stats-ahmednibras.vercel.app/api?username=ahmednibras&show_icons=true&hide_border= true&theme=tokyonight" />
  </p>
  
- 
+ </details>
  <details>
   <summary>📃 Resume</summary>
  
@@ -178,7 +187,8 @@
 
 
  </details>
- 
+
+
  
   [twitter]: https://twitter.com/Nibras80624930
   [reddit]: https://www.reddit.com/user/Nibras_Ahmed
@@ -186,3 +196,13 @@
   [instagram]: https://www.instagram.com/nibras.ahmed.1/
   [youtube]: https://www.youtube.com/c/MINGO07
   [linkedin]: https://www.linkedin.com/in/nibras-ahmed-9031b2201/
+  
+  
+  <!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
