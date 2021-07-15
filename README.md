@@ -14,6 +14,6 @@
   
   <summary> ⚡ Github Stats </summary>
 
-  <img align="center" src="https://github-readme-stats-ahmednibras.vercel.app/api/pin/?username=ahmednibras&repo=github-readme-stats" />
+  <img align="center" alt="Nibras Github Stats" src="https://github-readme-stats-ahmednibras.vercel.app/api?username=ahmednibras&show_icons=true&theme=radical)" />
 
 </detail>
