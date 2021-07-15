@@ -14,6 +14,6 @@
   
   <summary> ⚡ Github Stats </summary>
 
-  <img align="left" alt="Nibras Github Stats" src="https://github-readme-stats-ahmednibras.vercel.app/api?username=ahmednibras&show_icons=true&hide_border= true&theme=tokyonight" />
+  <img align="center" alt="Nibras Github Stats" src="https://github-readme-stats-ahmednibras.vercel.app/api?username=ahmednibras&show_icons=true&hide_border= true&theme=tokyonight" />
 
 </detail>
