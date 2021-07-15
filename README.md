@@ -1,10 +1,12 @@
 <h1 align="center"> 
  <i> HI THERE, IT'S ME NIBRAS. 👨‍💻</i>
+ 
 </h1>
 
 
 
 [<img align="center" src="https://github-spotify-ahmednibras.vercel.app/api/spotify" alt="Mingo Spotify" width="350" />](https://open.spotify.com/user/31ostlzyi4ydkljjoftd5pnjzwde?si=85afbc7e2bdc439b)
+
 </br>
 
 - 🔭 I’m currently working on Web Development
@@ -26,7 +28,9 @@
 <a href="https://www.facebook.com/nibras25/"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/ahmednibras/ahmednibras"></a> 
+</p>
 
 
 <h2 align="center"><i>💻 TECH STACK </i></h2>
@@ -137,6 +141,43 @@
   <img align="center" alt="Nibras Github Stats" src="https://github-readme-stats-ahmednibras.vercel.app/api?username=ahmednibras&show_icons=true&hide_border= true&theme=tokyonight" />
  </p>
  
+ 
+ <details>
+  <summary>📃 Resume</summary>
+ 
+## Education
+
+- 📖 **Software Engineering**\
+📆 2018 - current\
+📍 **COMSATS University Islamabad (CUI)** - Pakistan
+
+## Experience
+
+
+- 👨‍💻 **Web Development**\
+📆 2021 - moment\
+📍 **COMSATS University Islamabad** , pakistan
+  
+
+
+<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
+
+**Programming**
+
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+
+**Operating Systems**
+
+
+
+
+ </details>
  
  
   [twitter]: https://twitter.com/Nibras80624930
