@@ -11,9 +11,9 @@
 
 
 
-> 🔭 I’m currently working on Web Development
+> 🔭 I’m currently working on Cybersecurity
  > 
-> 🌱 I’m currently learning blockchain
+> 🌱 I’m currently learning Cybersecurity
  >
 > 🤔 I’m looking for help with Google
  >
@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nibras-ahmed-9031b2201/"><img src="https://img.shields.io/badge/-Nibras%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:nibrasahmad@protonmail.com"><img src="https://img.shields.io/badge/-nibrasahmad@protonmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/nibras.ahmed.1/"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/nibrazz.ahmed/"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/nibras25/"><img src="https://img.shields.io/badge/-@Nibras_Ahmed-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
